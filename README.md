@@ -1,3 +1,1 @@
-Hola este es mi primer README
-
-Segunda edición
+Añade tu instagram en index.html para que puedas contactar con tus compañeros
